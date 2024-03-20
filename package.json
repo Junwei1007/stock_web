@@ -1,0 +1,16 @@
+{
+  "name": "natural-machine-hang-5ui19",
+  "productName": "natural-machine-hang-5ui19",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "USER",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "28.2.0"
+  }
+}
